@@ -1,0 +1,23 @@
+#animal {
+  margin-left: 30px;
+}
+
+h1 {
+  margin-left: 15px;
+}
+
+.rhinoceros-info {
+  display: none;
+}
+
+.octopus-info {
+  display: none;
+}
+
+.hippopotamus-info {
+  display: none;
+}
+
+.platypus-info {
+  display: none;
+}
